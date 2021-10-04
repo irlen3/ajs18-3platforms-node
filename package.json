@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/irlen3/ajs18-3platforms-node#readme",
   "dependencies": {
-    "@irlen3/ajs18-3platforms-1": "^1.0.0"
+    "@irlen3/ajspacket": "^1.0.0"
   }
 }

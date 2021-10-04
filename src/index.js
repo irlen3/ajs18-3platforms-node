@@ -1,3 +1,3 @@
-const ajs = require('@irlen3/ajs18-3platforms-1');
+const ajs = require('@irlen3/ajspacket');
 
 console.log(ajs.info());
