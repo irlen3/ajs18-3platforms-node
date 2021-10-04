@@ -1,0 +1,23 @@
+{
+  "name": "ajs18-3platforms-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irlen3/ajs18-3platforms-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irlen3/ajs18-3platforms-node/issues"
+  },
+  "homepage": "https://github.com/irlen3/ajs18-3platforms-node#readme",
+  "dependencies": {
+    "@irlen3/ajs18-3platforms-1": "^1.0.0"
+  }
+}
